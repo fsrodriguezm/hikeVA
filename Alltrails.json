@@ -3,7 +3,7 @@
 	"HikeTrails": [{
 		"HikeLocation": "Clifton, VA",
 		"HikeID": "1",
-		"HikeImageURL": "raw.githubusercontent.com/fsrodriguezm/hikeVA/master/frp.jpg",
+		"HikeImageURL": "frp.jpg",
 		"HikeName": "Fountainhead Regional Park",
 		"HikeLength": "7.2",
 		"HikeTime": "4",
