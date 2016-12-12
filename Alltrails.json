@@ -3,7 +3,7 @@
 	"Universities": [{
 		"HikeLocation": "Clifton, VA",
 		"HikeID": 1,
-		"HikeImageURL": "frp.jpg",
+		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/frp.jpg",
 		"HikeName": "Fountainhead Regional Park",
 		"HikeLength": "7.2",
 		"HikeTime": "4",
@@ -17,7 +17,7 @@
 	}, {
 		"HikeLocation": "Lorton, VA",
 		"HikeID": 2,
-		"HikeImageURL": "mnsp.jpg",
+		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/mnsp.jpg",
 		"HikeName": "Mason Neck State Park",
 		"HikeLength": "7.5",
 		"HikeTime": "3.5",
@@ -31,7 +31,7 @@
 	}, {
 		"HikeLocation": "Clifton, VA",
 		"HikeID": 3,
-		"HikeImageURL": "horp.jpg",
+		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/horp.jpg",
 		"HikeName": "Hemlock Overlook Regional Park",
 		"HikeLength": "3.8",
 		"HikeTime": "2.5",
@@ -45,7 +45,7 @@
 	}, {
 		"HikeLocation": "Burke, VA",
 		"HikeID": 4,
-		"HikeImageURL": "blp.jpg",
+		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/blp.jpg",
 		"HikeName": "Burke Lake Park",
 		"HikeLength": "5.6",
 		"HikeTime": "2.5",
@@ -59,7 +59,7 @@
 	}, {
 		"HikeLocation": "Evergreen Mills, VA",
 		"HikeID": 5,
-		"HikeImageURL": "brp.jpg",
+		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/brp.jpg",
 		"HikeName": "Banshee Reeks Park",
 		"HikeLength": "6",
 		"HikeTime": "3",
