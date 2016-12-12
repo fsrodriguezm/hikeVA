@@ -8,10 +8,10 @@
 		"HikeLength": "7.2mi",
 		"HikeTime": "4hrs",
 		"HikeElevation": "710ft",
-		"HikeDifficulty": "2",
+		"HikeDifficulty": "★★☆☆☆",
 		"HikeStreams": "2",
 		"HikeViews": "3",
-		"HikeSolitude": "★★★",
+		"HikeSolitude": "★★★☆☆",
 		"HikeGoogleMaps": "www.google.com/maps/place/Fountainhead+Regional+Park/@38.721063,-77.3334587,15z/data=!4m12!1m6!3m5!1s0x0:0x273fb630b1c5f912!2sFountainhead+Regional+Park!8m2!3d38.721063!4d-77.3334587!3m4!1s0x0:0x273fb630b1c5f912!8m2!3d38.721063!4d-77.3334587",
 		"HikeURL": "www.novaparks.com/parks/fountainhead-regional-park"
 	}, {
@@ -22,7 +22,7 @@
 		"HikeLength": "7.5",
 		"HikeTime": "3.5",
 		"HikeElevation": "85",
-		"HikeDifficulty": "2",
+		"HikeDifficulty": "★★☆☆☆",
 		"HikeStreams": "0",
 		"HikeViews": "3",
 		"HikeSolitude": "1",
@@ -36,10 +36,10 @@
 		"HikeLength": "3.8",
 		"HikeTime": "2.5",
 		"HikeElevation": "390",
-		"HikeDifficulty": "2",
+		"HikeDifficulty": "★★☆☆☆",
 		"HikeStreams": "5",
 		"HikeViews": "1",
-		"HikeSolitude": "2",
+		"HikeSolitude": "★★☆☆☆",
 		"HikeGoogleMaps": "www.google.com/maps/place/Hemlock+Overlook+Regional+Park/@38.770187,-77.409623,15z/data=!4m5!3m4!1s0x0:0x212ef48da159dd66!8m2!3d38.770187!4d-77.409623",
 		"HikeURL": "www.novaparks.com/parks/hemlock-overlook-regional-park"
 	}, {
@@ -50,10 +50,10 @@
 		"HikeLength": "5.6",
 		"HikeTime": "2.5",
 		"HikeElevation": "30",
-		"HikeDifficulty": "1",
+		"HikeDifficulty": "★☆☆☆☆",
 		"HikeStreams": "0",
 		"HikeViews": "3",
-		"HikeSolitude": "0",
+		"HikeSolitude": "☆☆☆☆☆",
 		"HikeGoogleMaps": "www.google.com/maps/place/Burke+Lake+Park/@38.7607847,-77.3074758,15z/data=!4m2!3m1!1s0x0:0x861150ee18ecf6ae?sa=X&ved=0ahUKEwii3_q4kO3QAhVmwFQKHWf_BxQQ_BIIgQEwEQ",
 		"HikeURL": "www.fairfaxcounty.gov/parks/burkelakepark/"
 	}, {
@@ -64,10 +64,10 @@
 		"HikeLength": "6",
 		"HikeTime": "3",
 		"HikeElevation": "298",
-		"HikeDifficulty": "1",
+		"HikeDifficulty": "★☆☆☆☆",
 		"HikeStreams": "4",
 		"HikeViews": "3",
-		"HikeSolitude": "2",
+		"HikeSolitude": "★★☆☆☆",
 		"HikeGoogleMaps": "www.google.com/maps/place/Banshee+Reeks/@38.9997508,-77.5821232,12z/data=!4m5!3m4!1s0x0:0xf5c511b1f5a90975!8m2!3d39.030961!4d-77.5843548",
 		"HikeURL": "www.bansheereeksnp.org/"
 	}]
