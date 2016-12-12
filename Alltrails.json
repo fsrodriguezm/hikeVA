@@ -26,12 +26,12 @@
 		"HikeStreams": "0",
 		"HikeViews": "3",
 		"HikeSolitude": "1",
-		"HikeGoogleMaps": "https://www.google.com/maps/place/Elizabeth+Hartwell+Mason+Neck+National+Wildlife+Refuge/@38.6470008,-77.162438,15z/data=!4m5!3m4!1s0x0:0xd0e14311c472f6d5!8m2!3d38.648308!4d-77.166515",
-		"HikeURL": "http://www.dcr.virginia.gov/state-parks/mason-neck#general_information"
+		"HikeGoogleMaps": "www.google.com/maps/place/Elizabeth+Hartwell+Mason+Neck+National+Wildlife+Refuge/@38.6470008,-77.162438,15z/data=!4m5!3m4!1s0x0:0xd0e14311c472f6d5!8m2!3d38.648308!4d-77.166515",
+		"HikeURL": "www.dcr.virginia.gov/state-parks/mason-neck#general_information"
 	}, {
 		"HikeLocation": "Clifton, VA",
 		"HikeID": "3",
-		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/horp.jpg",
+		"HikeImageURL": "raw.githubusercontent.com/fsrodriguezm/hikeVA/master/horp.jpg",
 		"HikeName": "Hemlock Overlook Regional Park",
 		"HikeLength": "3.8",
 		"HikeTime": "2.5",
@@ -40,12 +40,12 @@
 		"HikeStreams": "5",
 		"HikeViews": "1",
 		"HikeSolitude": "2",
-		"HikeGoogleMaps": "https://www.google.com/maps/place/Hemlock+Overlook+Regional+Park/@38.770187,-77.409623,15z/data=!4m5!3m4!1s0x0:0x212ef48da159dd66!8m2!3d38.770187!4d-77.409623",
-		"HikeURL": "https://www.novaparks.com/parks/hemlock-overlook-regional-park"
+		"HikeGoogleMaps": "www.google.com/maps/place/Hemlock+Overlook+Regional+Park/@38.770187,-77.409623,15z/data=!4m5!3m4!1s0x0:0x212ef48da159dd66!8m2!3d38.770187!4d-77.409623",
+		"HikeURL": "www.novaparks.com/parks/hemlock-overlook-regional-park"
 	}, {
 		"HikeLocation": "Burke, VA",
 		"HikeID": "4",
-		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/blp.jpg",
+		"HikeImageURL": "raw.githubusercontent.com/fsrodriguezm/hikeVA/master/blp.jpg",
 		"HikeName": "Burke Lake Park",
 		"HikeLength": "5.6",
 		"HikeTime": "2.5",
@@ -54,12 +54,12 @@
 		"HikeStreams": "0",
 		"HikeViews": "3",
 		"HikeSolitude": "0",
-		"HikeGoogleMaps": "https://www.google.com/maps/place/Burke+Lake+Park/@38.7607847,-77.3074758,15z/data=!4m2!3m1!1s0x0:0x861150ee18ecf6ae?sa=X&ved=0ahUKEwii3_q4kO3QAhVmwFQKHWf_BxQQ_BIIgQEwEQ",
-		"HikeURL": "http://www.fairfaxcounty.gov/parks/burkelakepark/"
+		"HikeGoogleMaps": "www.google.com/maps/place/Burke+Lake+Park/@38.7607847,-77.3074758,15z/data=!4m2!3m1!1s0x0:0x861150ee18ecf6ae?sa=X&ved=0ahUKEwii3_q4kO3QAhVmwFQKHWf_BxQQ_BIIgQEwEQ",
+		"HikeURL": "www.fairfaxcounty.gov/parks/burkelakepark/"
 	}, {
 		"HikeLocation": "Evergreen Mills, VA",
 		"HikeID": "5",
-		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/brp.jpg",
+		"HikeImageURL": "raw.githubusercontent.com/fsrodriguezm/hikeVA/master/brp.jpg",
 		"HikeName": "Banshee Reeks Park",
 		"HikeLength": "6",
 		"HikeTime": "3",
@@ -68,7 +68,7 @@
 		"HikeStreams": "4",
 		"HikeViews": "3",
 		"HikeSolitude": "2",
-		"HikeGoogleMaps": "https://www.google.com/maps/place/Banshee+Reeks/@38.9997508,-77.5821232,12z/data=!4m5!3m4!1s0x0:0xf5c511b1f5a90975!8m2!3d39.030961!4d-77.5843548",
-		"HikeURL": "http://www.bansheereeksnp.org/"
+		"HikeGoogleMaps": "www.google.com/maps/place/Banshee+Reeks/@38.9997508,-77.5821232,12z/data=!4m5!3m4!1s0x0:0xf5c511b1f5a90975!8m2!3d39.030961!4d-77.5843548",
+		"HikeURL": "www.bansheereeksnp.org/"
 	}]
 }
