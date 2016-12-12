@@ -1,6 +1,6 @@
 {
 	"Status": "OK",
-	"Universities": [{
+	"HikeTrails": [{
 		"HikeLocation": "Clifton, VA",
 		"HikeID": "1",
 		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/frp.jpg",
