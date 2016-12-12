@@ -3,7 +3,7 @@
 	"HikeTrails": [{
 		"HikeLocation": "Clifton, VA",
 		"HikeID": "1",
-		"HikeImageURL": "https://raw.githubusercontent.com/fsrodriguezm/hikeVA/master/frp.jpg",
+		"HikeImageURL": "raw.githubusercontent.com/fsrodriguezm/hikeVA/master/frp.jpg",
 		"HikeName": "Fountainhead Regional Park",
 		"HikeLength": "7.2",
 		"HikeTime": "4",
@@ -12,8 +12,8 @@
 		"HikeStreams": "2",
 		"HikeViews": "3",
 		"HikeSolitude": "3",
-		"HikeGoogleMaps": "https://www.google.com/maps/place/Fountainhead+Regional+Park/@38.721063,-77.3334587,15z/data=!4m12!1m6!3m5!1s0x0:0x273fb630b1c5f912!2sFountainhead+Regional+Park!8m2!3d38.721063!4d-77.3334587!3m4!1s0x0:0x273fb630b1c5f912!8m2!3d38.721063!4d-77.3334587",
-		"HikeURL": "https://www.novaparks.com/parks/fountainhead-regional-park"
+		"HikeGoogleMaps": "www.google.com/maps/place/Fountainhead+Regional+Park/@38.721063,-77.3334587,15z/data=!4m12!1m6!3m5!1s0x0:0x273fb630b1c5f912!2sFountainhead+Regional+Park!8m2!3d38.721063!4d-77.3334587!3m4!1s0x0:0x273fb630b1c5f912!8m2!3d38.721063!4d-77.3334587",
+		"HikeURL": "www.novaparks.com/parks/fountainhead-regional-park"
 	}, {
 		"HikeLocation": "Lorton, VA",
 		"HikeID": "2",
